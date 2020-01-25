@@ -56,7 +56,7 @@
     background-color: var(--bc4);
 }
 .bh2 { max-width: fit-content; text-align: center; color: var(--bc1); font-weight: 800; font-size: 5em; margin: auto;}
-.bh3 { max-width: fit-content; margin: auto; padding: 0.5em;}
+.bh3 { max-width: fit-content; margin: auto;}
 /* BOX: */
 td,
 th { padding: 1em; text-align: left; border-bottom: solid var(--bc2);}
