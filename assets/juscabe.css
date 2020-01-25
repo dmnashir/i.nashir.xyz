@@ -50,8 +50,7 @@
 .b0 {display: table; border-spacing: 1em 0; width: 100%;}
 .bh1 {
     max-width: 100%;
-    padding-top: 10em;
-    padding-bottom: 10em;
+    padding: auto;
     height: 100vh;
     margin: auto;
     background-color: var(--bc4);
