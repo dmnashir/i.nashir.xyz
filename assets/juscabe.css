@@ -52,6 +52,7 @@
     max-width: 100%;
     padding-top: 10em;
     padding-bottom: 10em;
+    height: 100vh;
     margin: auto;
     background-color: var(--bc4);
 }
