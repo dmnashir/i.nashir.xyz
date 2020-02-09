@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/nashir
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://nashir.co.id
+  * I am nashir (https://keybase.io/nashir) on keybase.
+  * I have a public key ASBNuKjvCT_EQTmxdtCLhG1NVCiQschaW-xrqmYNeV3BCQo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01204db8a8ef093fc44139b176d08b846d4d542890b1c85a5bec6baa660d795dc1090a",
+      "host": "keybase.io",
+      "kid": "01204db8a8ef093fc44139b176d08b846d4d542890b1c85a5bec6baa660d795dc1090a",
+      "uid": "47694b2d51be63938cf6a30cf1749519",
+      "username": "nashir"
+    },
+    "merkle_root": {
+      "ctime": 1581128094,
+      "hash": "a926451c3ee8b1934e0a5a89202a4107d42215ffd0ca2e7b771e7a6c330501b1b82dc89bcf28e8cd28387e9274053221f587e63b0a24608f3ae7d26ca8ed58b6",
+      "hash_meta": "aca0c10ddae07b9cd4f9c81e943a43e59ded7561f98bbc83e252173ed6f6554f",
+      "seqno": 14530967
+    },
+    "service": {
+      "entropy": "2fqQAUh5qGkCCQkO/YgNisWZ",
+      "hostname": "nashir.co.id",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.2.0"
+  },
+  "ctime": 1581128117,
+  "expire_in": 504576000,
+  "prev": "af96eadcd9d5cb8b7679bd9b94b30236e843a00e98e9e67b544c495341ccfde8",
+  "seqno": 59,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgTbio7wk/xEE5sXbQi4RtTVQokLHIWlvsa6pmDXldwQkKp3BheWxvYWTESpcCO8Qgr5bq3NnVy4t2eb2blLMCNuhDoA6Y6eZ7VExJU0HM/ejEIHXcXrRMSd+RN1wf2C+rUhr90CoXS51HGZhJkmrVV4+wAgHCo3NpZ8RA3iw2PnAusxHFtoqJUwDKVstPTgTdlm80/JLmAJ8Do9fjfBQyB9QrZde3dyCG/o4tsM9y4zIkv+Ti6XmaT5ASCahzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIDdrN45vvluxQ6A1Lv/FNcxXQgeVHVm9eonjtp+KhKnCo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/nashir
+
+==================================================================
