@@ -1,2 +1,1 @@
-# 00Nashir
- Repo Blog Pribadi - nashir.co.id
+Repo Blog Pribadi - nashir.co.id
