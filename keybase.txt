@@ -4,49 +4,68 @@ https://keybase.io/nashir
 
 I hereby claim:
 
-  * I am an admin of https://nashir.co.id
+  * I am an admin of https://nashir.xyz
   * I am nashir (https://keybase.io/nashir) on keybase.
-  * I have a public key ASBNuKjvCT_EQTmxdtCLhG1NVCiQschaW-xrqmYNeV3BCQo
+  * I have a public key with fingerprint F2DD 78C6 18AC F427 EF19  5013 C375 1B94 9EE0 D79E
 
 To do so, I am signing this object:
 
 {
   "body": {
     "key": {
-      "eldest_kid": "01204db8a8ef093fc44139b176d08b846d4d542890b1c85a5bec6baa660d795dc1090a",
+      "eldest_kid": "012020dae773bb15b35d860ab60b445b295f399f20110d2ffe4b2bcc75e5093cf7790a",
+      "fingerprint": "f2dd78c618acf427ef195013c3751b949ee0d79e",
       "host": "keybase.io",
-      "kid": "01204db8a8ef093fc44139b176d08b846d4d542890b1c85a5bec6baa660d795dc1090a",
+      "key_id": "c3751b949ee0d79e",
+      "kid": "010188f555c93a5becc9fce05a957e3d8f1da0ea9ad33d70ac507ae813afa32c96100a",
       "uid": "47694b2d51be63938cf6a30cf1749519",
       "username": "nashir"
     },
-    "merkle_root": {
-      "ctime": 1581128094,
-      "hash": "a926451c3ee8b1934e0a5a89202a4107d42215ffd0ca2e7b771e7a6c330501b1b82dc89bcf28e8cd28387e9274053221f587e63b0a24608f3ae7d26ca8ed58b6",
-      "hash_meta": "aca0c10ddae07b9cd4f9c81e943a43e59ded7561f98bbc83e252173ed6f6554f",
-      "seqno": 14530967
-    },
     "service": {
-      "entropy": "2fqQAUh5qGkCCQkO/YgNisWZ",
-      "hostname": "nashir.co.id",
+      "hostname": "nashir.xyz",
       "protocol": "https:"
     },
     "type": "web_service_binding",
-    "version": 2
+    "version": 1
   },
-  "client": {
-    "name": "keybase.io go client",
-    "version": "5.2.0"
-  },
-  "ctime": 1581128117,
-  "expire_in": 504576000,
-  "prev": "af96eadcd9d5cb8b7679bd9b94b30236e843a00e98e9e67b544c495341ccfde8",
-  "seqno": 59,
+  "ctime": 1603791456,
+  "expire_in": 157680000,
+  "prev": "c881e373f2ba04ee8833a126345ff22e4c69b6518697868aa620bc13d73bee61",
+  "seqno": 86,
   "tag": "signature"
 }
 
 which yields the signature:
 
-hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgTbio7wk/xEE5sXbQi4RtTVQokLHIWlvsa6pmDXldwQkKp3BheWxvYWTESpcCO8Qgr5bq3NnVy4t2eb2blLMCNuhDoA6Y6eZ7VExJU0HM/ejEIHXcXrRMSd+RN1wf2C+rUhr90CoXS51HGZhJkmrVV4+wAgHCo3NpZ8RA3iw2PnAusxHFtoqJUwDKVstPTgTdlm80/JLmAJ8Do9fjfBQyB9QrZde3dyCG/o4tsM9y4zIkv+Ti6XmaT5ASCahzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIDdrN45vvluxQ6A1Lv/FNcxXQgeVHVm9eonjtp+KhKnCo3RhZ80CAqd2ZXJzaW9uAQ==
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.1.13
+Comment: https://keybase.io/crypto
+
+yMNrAnicbVJ9TFVlHL54KQS8CS1Qk9U6WbEF+J7zns+LDtcW2BimaDULub7nnPdw
+D3A/uF/Id5BpFmm2C6jJNRk6wrIiNM2FUKINSmClSDS8JiDjIx0WSpl2Dqu2tt5/
+3r2/93me3/N79jtjMhoiQr72LvUHgv2BkO4Ov9dgqRvfXEKIDrmIMJcQeXjuwvky
+dnsseapMmAlAUoACMsIcB0WRZETIyDwLkMgCkaYZkRIYBQqCQgGSBDKlKJgWKVGS
+OAYzQICSwnECQEQCoaj2HOxyulS7R5NVKFnmeIkleSQpNMVhhRQYQEIJcgwpCrSA
+MZA5AWtEq8OtMzRzInLjJNWh1bSHZc7e/+D/8Q1InlcYhpEEiBgRS5KgSBgwSGA4
+DGVeIWUEMBKQDKHMASQxgEOYJyFSEKQkgSXBnG/vnBzNsYI2mKw1wywUIC8pLIJA
+UkiOFhhS0IFu7LIjG9bQduS2qi6iLIHQaj5Vwnqs+hz/+U/aUlSs8Zwuh8chOfK1
+utXjcbrNOs9T5NSBhVi0/C1hEVW7rGWoMXzY5VYddsJMakjJo+qaJAsgJ5A0wyYQ
+eItTdWGLqiMYjuWBdvQ+2KcnxvMkhhxUKBEBGmOehxCRFAtpRlEoCtMSK4gsQ/Ks
+wPEsjxBLAVEitYygiDFLEvpQBXYHYea1Vh6Uo2m61Rw78nhdmCj7qiMr1BASYbj/
+vnn6chkiwqP+XbngwruJcGXypl8yC4iWA85LLX7zamHrAP1Jesq6sLHh9bPDD544
+dHHg90/NFV8O9TQueSprvLD3w9zd5eL85ss3G15d/IwvpqY2deBeZM0DMdUny2au
+TZ+xlNjCSh3NoWB0IikqMq8NvMR+MXg+9HZ8ymhkbtQa05Xjn8W+H7Us3pn1m/MO
+DHZ6o0dulsTFTz7+bLMz9NeY5ys3fDuvY1v/TExD9yO2h497TfnzM9Zf+7xvpOuF
+rmgfCU/Uy40zcmZG9jdpyrEVUb7WhsV3mvrrrvdX85DYvf9gc1hrSN8fuTUwjjjc
+ffDq6skqOMkuFKZXff9Bdu3IW9HTy/ZILVOdgU3lpb2mV86mXDbazg6OVjVUhseS
+uxZ8NxyMWfPQXlv6mzt6nlakieZ2eXlnR9ONzHOnjmaeMv1wq6mtIvpR/4GQbbY4
+w7pLQ4qw88nkWeO+4o/Pv1i/r0fe+JNxqSPFmwUXle8dGgi0LTeee+LIcF1sh+Ve
+VxiAwbGMyfDi7YcvXI+4XTWy522jbe3K4c0tI4k3dpgCg41h+a9VnL66NtVRG5Sr
+FwR+rIzLTjC93Hcy7ehW21Ta/rENpbk/vzfa2XOk0Nq+szhx0aoe1fvR3T/H69u7
+Ut9dkd7w2Otjx1DRO/Xp1tOoYKpo1wR14dYhv3tqtiq59+IbjqZAgeQmrBsj/KX+
+55Zc2W7pa437Cz/Gx+A=
+=jipH
+-----END PGP MESSAGE-----
 
 And finally, I am proving ownership of this host by posting or
 appending to this document.
